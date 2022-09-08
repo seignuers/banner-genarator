@@ -1,6 +1,6 @@
 # banner-genarator
 
-Installation- pkg install python
+### Installation- pkg install python
 
 pkg install python3
 
